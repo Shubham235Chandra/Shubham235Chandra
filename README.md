@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shubham235chandra.github.io/](https://shubham235chandra.github.io/)
 
-- 💬 Ask me about **Python, Tableau, Power BI**
+- 💬 Ask me about **Python, Tableau, Power BI, Amazon Web Service**
 
 - 📫 How to reach me **shubhamchandrawork@gmail.com**
 
