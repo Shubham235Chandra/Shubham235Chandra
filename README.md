@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://shubham235chandra.github.io/](https://shubham235chandra.github.io/)
 
-- 💬 Ask me about **Python, Tableau, Power BI, Amazon Web Service**
+- 💬 Ask me about **Python, Tableau, Power BI, Amazon Web Services**
 
 - 📫 How to reach me **shubhamchandrawork@gmail.com**
 
-- ⚡ Fun fact **Astrology is a ancient version of Data Science**
+- ⚡ Fun fact **Astrology is an ancient version of Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
