@@ -1,11 +1,11 @@
 <!--
-🚀 GitHub Profile README for Shubham Chandra
-Recommended repo name: Shubham235Chandra/Shubham235Chandra
-Positioning: Senior Manager | AI, Data & Cloud Platforms | Certified AI/Cloud Architect
+✨ Executive GitHub Profile README for Shubham Chandra
+Repo name should be exactly: Shubham235Chandra/Shubham235Chandra
+Positioning: Senior Manager | AI & Data | GenAI | Cloud | Enterprise Transformation
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0f172a,70:1e3a8a,100:7c3aed&text=Shubham%20Chandra&fontAlign=50&fontAlignY=35&fontSize=64&fontColor=ffffff&desc=Senior%20Manager%20%E2%80%A2%20AI%20%26%20Data%20Leader%20%E2%80%A2%20Certified%20AI%20%26%20Cloud%20Architect&descAlign=50&descAlignY=57&descSize=19" alt="Shubham Chandra - Senior Manager AI Data Cloud" />
+  <img width="100%" src="./assets/shubham-chandra-ai-data-cloud-banner.png" alt="Shubham Chandra - Senior Manager AI Data Cloud" />
 </div>
 
 <h1 align="center">Hi, I'm Shubham Chandra 👋</h1>
@@ -15,6 +15,11 @@ Positioning: Senior Manager | AI, Data & Cloud Platforms | Certified AI/Cloud Ar
 <h3 align="center">
   AI Strategy • Enterprise Data Architecture • GenAI Platforms • Cloud Modernization • Team Leadership
 </h3>
+
+<p align="center">
+  <b>I lead at the intersection of AI, data, cloud, engineering, and business impact.</b><br/>
+  Turning complex enterprise problems into scalable data products, AI-powered workflows, executive dashboards, and measurable outcomes.
+</p>
 
 <p align="center">
   <a href="https://shubham235chandra.github.io/" target="_blank">
@@ -32,103 +37,122 @@ Positioning: Senior Manager | AI, Data & Cloud Platforms | Certified AI/Cloud Ar
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham235Chandra&label=Profile%20Views&color=1e3a8a&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Shubham235Chandra?label=Followers&style=flat-square&color=7c3aed" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Experience-Nearly%2012%20Years-success?style=flat-square" alt="Nearly 12 years experience" />
-  <img src="https://img.shields.io/badge/Mode-Strategy%20%2B%20Execution-blueviolet?style=flat-square" alt="Strategy and execution" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&center=true&vCenter=true&width=1000&lines=I+lead+AI%2C+Data+%26+Cloud+teams;I+architect+enterprise-grade+GenAI+platforms;I+turn+data+chaos+into+AI-ready+systems;I+use+Claude%2C+Codex%2C+AWS%2C+Azure+%26+modern+AI+to+ship+impact" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Shubham235Chandra&label=Profile%20Views&color=6D28D9&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/GitHub-Profile%20Active-7c3aed?style=flat-square&logo=github&logoColor=white" alt="GitHub profile active" />
+  <img src="https://img.shields.io/badge/Leadership-AI%20%7C%20Data%20%7C%20Cloud-00D4FF?style=flat-square" alt="Leadership" />
+  <img src="https://img.shields.io/badge/Certified-Multi%20Cloud%20%2B%20AI%20%2B%20Data-success?style=flat-square" alt="Certifications" />
 </p>
 
 ---
 
 ## 🧠 Executive Snapshot
 
-I am a **Senior Manager and AI/Data leader** with **nearly 12 years of experience** across enterprise data engineering, AI platforms, analytics, financial-services technology, and cloud modernization.
+I am a **Senior Manager and AI/Data leader** with experience across **enterprise data platforms, financial services analytics, GenAI adoption, cloud modernization, and consulting-led delivery**.
 
-I operate at the intersection of **strategy, architecture, delivery, and hands-on technical depth** — leading teams, shaping AI/data roadmaps, building scalable platforms, and using modern AI tools to accelerate real business outcomes.
+My strength is the blend of **managerial ownership + technical depth**: I can work with leadership on strategy, partner with stakeholders on outcomes, and go deep with engineering teams on architecture, data pipelines, AI systems, governance, and delivery execution.
 
-> **Positioning:** Not just a coder. Not just a manager. A hands-on AI/Data leader who can translate business problems into architecture, delivery plans, platforms, products, and measurable impact.
+- 🧭 **Leadership:** AI & data strategy, delivery ownership, stakeholder management, roadmap planning, team enablement
+- 🤖 **GenAI:** Claude, OpenAI/Codex, LLM apps, RAG, agentic workflows, prompt engineering, AI-assisted SDLC
+- ☁️ **Cloud:** AWS, Azure, GCP, cloud data platforms, modernization, scalable architecture, automation
+- 📊 **Data:** Data engineering, analytics, BI, dashboards, data quality, governance, SQL/Python, ML workflows
+- 🏦 **Domain:** Financial services, risk-aware analytics, enterprise reporting, business transformation
+- 🎓 **Certifications:** Strong certification portfolio across **AI, data, cloud, analytics, and enterprise technology**
 
----
-
-## 🏆 Credentials & Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/Claude%20Certified%20Architect-Foundations%20CCA-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Certified Architect Foundations" />
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Professional" />
-  <img src="https://img.shields.io/badge/AWS%20Generative%20AI%20Developer-Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Generative AI Developer Professional" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Master's-Data%20Science%20%26%20AI-1E40AF?style=for-the-badge" alt="Master's in Data Science and AI" />
-  <img src="https://img.shields.io/badge/University%20at%20Buffalo-New%20York-005BBB?style=for-the-badge" alt="University at Buffalo" />
-  <img src="https://img.shields.io/badge/Multiple%20Certifications-AI%20%7C%20Cloud%20%7C%20Data%20%7C%20Leadership-111827?style=for-the-badge" alt="Multiple certifications" />
-</p>
-
-**Certification focus areas:** AI architecture, Generative AI, cloud architecture, enterprise data platforms, automation, governance, and production-ready delivery.
+> **My operating principle:** AI should not be a demo. It should become a trusted, governed, measurable capability inside the business.
 
 ---
 
-## 💼 Work Experience Snapshot
+## 💼 Work Experience Positioning
 
-| Dimension | What I Bring |
-|---|---|
-| **Current Positioning** | **Senior Manager — AI, Data & Cloud Platforms** |
-| **Experience** | **Nearly 12 years** across data, analytics, engineering, AI, and cloud ecosystems |
-| **Industry Strength** | Financial services, enterprise technology, data platforms, analytics, automation, and AI transformation |
-| **Leadership Scope** | Strategy, roadmaps, stakeholder management, delivery governance, mentoring, architecture reviews, cross-functional execution |
-| **Technical Depth** | Python, SQL, Spark, Databricks, Snowflake, AWS, Azure, GCP, LLMs, RAG, AI agents, MCP, dashboards, data pipelines |
-| **Enterprise Exposure** | Experience across global enterprise environments, including financial-services technology such as Morgan Stanley-scale data ecosystems |
+<table>
+<tr>
+<td width="34%">
+
+### 🏢 Senior Managerial Leadership
+**AI, Data & Cloud Transformation**
+
+- Enterprise delivery ownership
+- Cross-functional stakeholder leadership
+- Strategy-to-execution planning
+- Team mentoring and capability building
+- Business value realization
+
+</td>
+<td width="33%">
+
+### ⚙️ Enterprise Data & Engineering
+**EPAM / Consulting-led Delivery**
+
+- Data platform modernization
+- GenAI and analytics enablement
+- Cloud-native solution thinking
+- Engineering delivery governance
+- Client-facing technology leadership
+
+</td>
+<td width="33%">
+
+### 🏦 Financial Services Foundation
+**Morgan Stanley / BFSI Analytics**
+
+- Finance and risk-aware analytics
+- Reporting and decision intelligence
+- Data-driven automation
+- Controls-first execution mindset
+- Enterprise-grade delivery standards
+
+</td>
+</tr>
+</table>
+
+> Many enterprise/client projects cannot be fully public on GitHub, so this profile highlights my **leadership direction**, **technical toolkit**, and **selected personal/open projects**.
 
 ---
 
-## 🚀 What I Lead
+## 🚀 What I Bring to the Table
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Enterprise AI & GenAI
-- AI strategy and adoption roadmaps
-- LLM apps, RAG, AI agents, semantic search
-- Enterprise chatbots and knowledge assistants
-- Claude, Claude Code, OpenAI Codex, ChatGPT workflows
-- Prompt engineering, evaluation, guardrails, governance
+### 🤖 AI & GenAI Transformation
+- Enterprise GenAI use-case discovery
+- Claude, Codex, ChatGPT and AI-assisted engineering
+- RAG, agents, knowledge assistants and workflow automation
+- LLM evaluation, guardrails and responsible AI mindset
+- GenAI adoption roadmaps for business teams
 
 </td>
 <td width="50%">
 
-### 🏗️ Data Architecture & Platforms
-- Cloud-native data platforms
-- Lakehouse and Medallion Architecture
-- AI-ready data design and semantic layers
-- Batch, streaming, and event-driven pipelines
-- Data quality, observability, performance optimization
+### 📊 Data Strategy & Platforms
+- Data products and analytics modernization
+- Data engineering pipelines and architecture
+- KPI frameworks, semantic metrics and dashboards
+- Data quality, governance and observability thinking
+- SQL/Python-first decision systems
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ☁️ Cloud & Modernization
-- AWS, Azure, GCP solution design
-- Cloud migration and platform modernization
-- Databricks, Snowflake, Spark, serverless patterns
-- CI/CD, automation, DevOps for data products
-- Cost, reliability, scalability, and security thinking
+### ☁️ Cloud & Modern Engineering
+- AWS, Azure and multi-cloud solutioning
+- Cloud data platforms and scalable analytics
+- CI/CD, automation and DevOps collaboration
+- MLOps/LLMOps readiness and production thinking
+- Cost, security and reliability awareness
 
 </td>
 <td width="50%">
 
-### 👥 Management & Delivery
-- Senior stakeholder communication
-- Team leadership and mentoring
-- Agile delivery and execution governance
-- Translating ambiguity into delivery plans
-- Building teams that ship, scale, and improve continuously
+### 🧑‍💼 Senior Management & Delivery
+- Program ownership and execution governance
+- Stakeholder communication and executive storytelling
+- Agile delivery, prioritization and roadmap planning
+- Team enablement, mentoring and hiring support
+- Outcome-focused transformation leadership
 
 </td>
 </tr>
@@ -136,73 +160,47 @@ I operate at the intersection of **strategy, architecture, delivery, and hands-o
 
 ---
 
-## ⚡ AI-Native Leadership Stack
+## 🧭 2026 Focus Areas
 
 ```yaml
-identity:
-  role: "Senior Manager | AI, Data & Cloud Platforms"
-  experience: "Nearly 12 years"
-  operating_style: "Strategy + Architecture + Delivery + Hands-on Depth"
+leadership_identity:
+  - Senior Manager: AI, Data, Cloud and Business Transformation
+  - Strategy + Architecture + Delivery + Governance
+  - Enterprise AI adoption with measurable business outcomes
 
-ai_stack:
-  models_and_tools:
-    - Claude
-    - Claude Code
-    - OpenAI Codex
-    - ChatGPT
-    - GitHub Copilot
-  patterns:
-    - RAG
-    - AI Agents
-    - MCP Integrations
-    - Enterprise Chatbots
-    - Semantic Search
-    - AI-assisted SDLC
-    - Prompt Engineering
-    - LLM Evaluation
+ai_now:
+  - Claude for analysis, reasoning, research and business workflows
+  - OpenAI Codex for AI-assisted software delivery and automation
+  - RAG systems over enterprise knowledge and documents
+  - Agentic AI for operations, analytics, support and engineering productivity
+  - LLM evaluation, safety, governance and observability
 
-cloud_and_data_stack:
-  cloud:
-    - AWS
-    - Azure
-    - GCP
-  platforms:
-    - Databricks
-    - Snowflake
-    - Spark
-    - Lakehouse
-    - Medallion Architecture
-  engineering:
-    - Python
-    - SQL
-    - Data Pipelines
-    - APIs
-    - CI/CD
-    - Observability
+data_now:
+  - Data products and data platform modernization
+  - Cloud-native data engineering on AWS, Azure and GCP
+  - Executive analytics, BI modernization and KPI frameworks
+  - ML/AI pipelines that are reliable, explainable and scalable
 
-leadership_focus:
-  - AI Transformation
-  - Data Platform Strategy
-  - Cross-functional Delivery
-  - Technical Mentoring
-  - Governance and Risk Awareness
-  - Business Impact
+managerial_edge:
+  - Translating strategy into delivery roadmaps
+  - Aligning engineering, product, risk and business stakeholders
+  - Building teams that can ship, scale and sustain AI/data capabilities
 ```
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Executive Tech Stack
 
-### 🤖 Generative AI, Agents & AI Engineering
+### 🤖 AI, GenAI & AI-Assisted Delivery
 <p>
-  <img src="https://img.shields.io/badge/Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Claude%20Code-111827?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge" alt="LLMs" />
-  <img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI%20Agents-1E3A8A?style=for-the-badge" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/MCP-334155?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/RAG-4C1D95?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI%20Agents-0F172A?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/LLMOps-1E293B?style=for-the-badge" alt="LLMOps" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Vector%20Databases-005571?style=for-the-badge" alt="Vector Databases" />
@@ -210,58 +208,122 @@ leadership_focus:
 
 ### ☁️ Cloud, Data Platforms & Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions,linux,bash,git,terraform" alt="Cloud and DevOps icons" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,linux,bash,git" alt="Cloud and DevOps" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
 </p>
 
-### 🧪 AI, ML, Analytics & BI
+### 📊 Data Science, Analytics & BI
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" alt="AI and ML icons" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,postgres,mysql,mongodb,sqlite,elasticsearch" alt="Data Science and Databases" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-### 🗄️ Databases, APIs & Application Layer
+### 🧑‍💼 Leadership, Delivery & Transformation
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,elasticsearch,fastapi,flask,django,html,css,js,bootstrap" alt="Database and application icons" />
+  <img src="https://img.shields.io/badge/AI%20Strategy-020617?style=for-the-badge" alt="AI Strategy" />
+  <img src="https://img.shields.io/badge/Data%20Strategy-111827?style=for-the-badge" alt="Data Strategy" />
+  <img src="https://img.shields.io/badge/Stakeholder%20Management-1F2937?style=for-the-badge" alt="Stakeholder Management" />
+  <img src="https://img.shields.io/badge/Agile%20Delivery-2563EB?style=for-the-badge" alt="Agile Delivery" />
+  <img src="https://img.shields.io/badge/Roadmaps%20%26%20OKRs-7C3AED?style=for-the-badge" alt="Roadmaps and OKRs" />
+  <img src="https://img.shields.io/badge/Executive%20Storytelling-DB2777?style=for-the-badge" alt="Executive Storytelling" />
+  <img src="https://img.shields.io/badge/Team%20Enablement-059669?style=for-the-badge" alt="Team Enablement" />
+  <img src="https://img.shields.io/badge/Governance%20%26%20Risk-B91C1C?style=for-the-badge" alt="Governance and Risk" />
 </p>
 
 ---
 
-## 🎯 My Leadership Philosophy
+## 🎓 Certifications & Continuous Learning
 
-> **Build AI that earns trust. Build data platforms that scale. Build teams that deliver.**
+I maintain a **certification-heavy learning profile** across the areas that matter most for modern AI/data leadership.
 
-- I believe AI should be **useful, governed, measurable, and production-ready**.
-- I believe data platforms should be designed for **business decisions, not just storage**.
-- I believe senior leaders must understand both **boardroom outcomes and engineering trade-offs**.
-- I believe Claude, Codex, and modern AI tools are not shortcuts — they are **force multipliers** when paired with strong architecture and judgment.
+<p align="center">
+  <img width="100%" src="./assets/claude-certified-architect-foundations.png" alt="Claude Certified Architect — Foundations" />
+</p>
+
+<p align="center">
+  <img width="100%" src="./assets/aws-certified-solutions-architect-professional.png" alt="AWS Certified Solutions Architect — Professional" />
+</p>
+
+<p align="center">
+  <img width="100%" src="./assets/aws-generative-ai-developer-professional.png" alt="AWS Generative AI Developer — Professional" />
+</p>
+
+<table>
+<tr>
+<td width="25%">
+
+### 🤖 AI & GenAI
+- Claude / Anthropic ecosystem
+- Generative AI architecture
+- Prompt engineering
+- Responsible AI
+- AI-assisted delivery
+
+</td>
+<td width="25%">
+
+### ☁️ Cloud
+- AWS architecture
+- Microsoft Azure
+- Google Cloud
+- Cloud modernization
+- Cloud data services
+
+</td>
+<td width="25%">
+
+### 📊 Data & Analytics
+- Data engineering
+- BI and visualization
+- SQL/Python analytics
+- ML pipelines
+- Data governance
+
+</td>
+<td width="25%">
+
+### 🧑‍💼 Leadership
+- Agile delivery
+- Program execution
+- Consulting delivery
+- Stakeholder management
+- Enterprise transformation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧩 Enterprise Work Themes
+## 🧩 My AI/Data Transformation Operating Model
 
-These are the kinds of problems I enjoy leading and solving:
-
-- **AI transformation:** moving teams from manual workflows to AI-assisted execution
-- **Enterprise GenAI:** RAG systems, internal copilots, intelligent assistants, AI agents
-- **AI-ready data:** clean, governed, documented, discoverable, and reusable data products
-- **Cloud modernization:** scalable data platforms on AWS, Azure, and GCP
-- **Financial analytics:** risk intelligence, forecasting, reporting automation, KPI ecosystems
-- **Leadership enablement:** mentoring teams, improving delivery quality, and creating reusable frameworks
+```mermaid
+flowchart LR
+    A[Business Problem] --> B[Use-case Discovery]
+    B --> C[Data Readiness]
+    C --> D[Architecture & Roadmap]
+    D --> E[Build: AI / Data Product / Dashboard]
+    E --> F[Governance, Risk & Evaluation]
+    F --> G[Adoption & Change Management]
+    G --> H[Measured Business Impact]
+```
 
 ---
 
-## 🌟 Featured Public Projects
-
-> My enterprise work is mostly private. These public projects show hands-on foundations across ML, apps, analytics, and product thinking.
+## 🌟 Selected Public Projects
 
 <table>
 <tr>
@@ -270,7 +332,9 @@ These are the kinds of problems I enjoy leading and solving:
 ### 🧮 [Incometric](https://github.com/Shubham235Chandra/Incometric)
 ML-powered income prediction using demographic and socio-economic data.
 
-**Signals:** preprocessing, feature engineering, model training, evaluation, deployment mindset.
+**Leadership lens:** Shows how data can support classification, segmentation, and decision intelligence.
+
+**Tech:** Python, ML, preprocessing, model evaluation
 
 </td>
 <td width="50%">
@@ -278,7 +342,9 @@ ML-powered income prediction using demographic and socio-economic data.
 ### 🎬 [MovieSelect](https://github.com/Shubham235Chandra/MovieSelect)
 A Streamlit recommendation app for discovering movies based on user preferences.
 
-**Signals:** recommender systems, app-first thinking, data product storytelling.
+**Leadership lens:** Demonstrates product thinking around recommendations, UX, and analytics-driven personalization.
+
+**Tech:** Python, recommender systems, Streamlit
 
 </td>
 </tr>
@@ -288,15 +354,19 @@ A Streamlit recommendation app for discovering movies based on user preferences.
 ### 🌿 [LeafCare Image Analysis](https://github.com/Shubham235Chandra/LeafCare-Image-Analysis)
 Plant disease diagnosis from leaf images using computer vision.
 
-**Signals:** image classification, CNN workflows, practical AI use cases.
+**Leadership lens:** Applies AI to real-world diagnosis and field decision support.
+
+**Tech:** Computer vision, image classification, ML deployment mindset
 
 </td>
 <td width="50%">
 
 ### 🏠 [HomeScope](https://github.com/Shubham235Chandra/HomeScope)
-End-to-end housing price prediction using ML and an interactive app.
+End-to-end housing price prediction project using ML and an interactive app.
 
-**Signals:** regression, feature engineering, real-estate analytics, Streamlit UI.
+**Leadership lens:** Connects predictive modeling with real-estate business decisions and dashboard-style consumption.
+
+**Tech:** Python, Random Forest, Streamlit, analytics
 
 </td>
 </tr>
@@ -304,23 +374,23 @@ End-to-end housing price prediction using ML and an interactive app.
 
 ---
 
-## 📌 GitHub Project Cards
+## 📌 Featured Repository Cards
 
 <p align="center">
   <a href="https://github.com/Shubham235Chandra/Incometric">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham235Chandra&repo=Incometric&theme=tokyonight&hide_border=true" alt="Incometric GitHub card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham235Chandra&repo=Incometric&theme=tokyonight&hide_border=true" alt="Incometric" />
   </a>
   <a href="https://github.com/Shubham235Chandra/MovieSelect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham235Chandra&repo=MovieSelect&theme=tokyonight&hide_border=true" alt="MovieSelect GitHub card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham235Chandra&repo=MovieSelect&theme=tokyonight&hide_border=true" alt="MovieSelect" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Shubham235Chandra/LeafCare-Image-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham235Chandra&repo=LeafCare-Image-Analysis&theme=tokyonight&hide_border=true" alt="LeafCare GitHub card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham235Chandra&repo=LeafCare-Image-Analysis&theme=tokyonight&hide_border=true" alt="LeafCare Image Analysis" />
   </a>
   <a href="https://github.com/Shubham235Chandra/HomeScope">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham235Chandra&repo=HomeScope&theme=tokyonight&hide_border=true" alt="HomeScope GitHub card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham235Chandra&repo=HomeScope&theme=tokyonight&hide_border=true" alt="HomeScope" />
   </a>
 </p>
 
@@ -347,7 +417,7 @@ End-to-end housing price prediction using ML and an interactive app.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/schandra235" target="_blank">
@@ -368,8 +438,8 @@ End-to-end housing price prediction using ML and an interactive app.
 
 <div align="center">
 
-### “Strategy without execution is theory. Execution without architecture is chaos. I build the bridge.”
+### “I don't just ship AI demos. I build AI and data capabilities that leaders can trust, teams can use, and businesses can measure.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:1e3a8a,100:020617" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D4FF,35:6D28D9,70:090979,100:020024" alt="Footer" />
 
 </div>
