@@ -264,6 +264,10 @@ I maintain a **certification-heavy learning profile** across the areas that matt
 </p>
 
 <p align="center">
+  <img width="100%" src="./pmp-project-management-professional.png" alt="PMP — Project Management Professional" />
+</p>
+
+<p align="center">
   <img width="100%" src="./claude-certified-architect-foundations.png" alt="Claude Certified Architect — Foundations" />
 </p>
 
@@ -273,10 +277,6 @@ I maintain a **certification-heavy learning profile** across the areas that matt
 
 <p align="center">
   <img width="100%" src="./aws-generative-ai-developer-professional.png" alt="AWS Generative AI Developer — Professional" />
-</p>
-
-<p align="center">
-  <img width="100%" src="./pmp-project-management-professional.png" alt="PMP — Project Management Professional" />
 </p>
 
 <p align="center">
