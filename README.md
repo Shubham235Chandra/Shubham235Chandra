@@ -4,9 +4,8 @@ Repo name should be exactly: Shubham235Chandra/Shubham235Chandra
 Positioning: Senior Manager | AI & Data | GenAI | Cloud | Enterprise Transformation
 -->
 
-
 <div align="center">
-  <img width="100%" src="./assets/shubham-chandra-ai-data-cloud-banner.png" alt="Shubham Chandra - Senior Manager AI Data Cloud" />
+  <img width="100%" src="./shubham-chandra-ai-data-cloud-banner.png" alt="Shubham Chandra - Senior Manager AI Data Cloud" />
 </div>
 
 <h1 align="center">Hi, I'm Shubham Chandra 👋</h1>
@@ -26,10 +25,10 @@ Positioning: Senior Manager | AI & Data | GenAI | Cloud | Enterprise Transformat
   <a href="https://shubham235chandra.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/schandra235" target="_blank">
+  <a href="https://www.linkedin.com/in/shubhamchandraai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:chandra.shubham.work@gmail.com">
+  <a href="mailto:shubhachandrawork@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/imbidexter" target="_blank">
@@ -39,16 +38,17 @@ Positioning: Senior Manager | AI & Data | GenAI | Cloud | Enterprise Transformat
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shubham235Chandra&label=Profile%20Views&color=6D28D9&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Experience-Nearly%2012%20Years-16A34A?style=flat-square" alt="Nearly 12 years experience" />
   <img src="https://img.shields.io/badge/GitHub-Profile%20Active-7c3aed?style=flat-square&logo=github&logoColor=white" alt="GitHub profile active" />
   <img src="https://img.shields.io/badge/Leadership-AI%20%7C%20Data%20%7C%20Cloud-00D4FF?style=flat-square" alt="Leadership" />
-  <img src="https://img.shields.io/badge/Certified-Multi%20Cloud%20%2B%20AI%20%2B%20Data-success?style=flat-square" alt="Certifications" />
+  <img src="https://img.shields.io/badge/Certified-AWS%20%2B%20SnowPro%20%2B%20PMP%20%2B%20Claude-success?style=flat-square" alt="Certifications" />
 </p>
 
 ---
 
 ## 🧠 Executive Snapshot
 
-I am a **Senior Manager and AI/Data leader** with experience across **enterprise data platforms, financial services analytics, GenAI adoption, cloud modernization, and consulting-led delivery**.
+I am a **Senior Manager and AI/Data leader with nearly 12 years of experience** across **enterprise data platforms, financial services analytics, GenAI adoption, cloud modernization, and consulting-led delivery**.
 
 My strength is the blend of **managerial ownership + technical depth**: I can work with leadership on strategy, partner with stakeholders on outcomes, and go deep with engineering teams on architecture, data pipelines, AI systems, governance, and delivery execution.
 
@@ -195,8 +195,11 @@ managerial_edge:
 ### 🤖 AI, GenAI & AI-Assisted Delivery
 <p>
   <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Bedrock" />
+  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=for-the-badge" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/RAG-4C1D95?style=for-the-badge" alt="RAG" />
@@ -218,6 +221,8 @@ managerial_edge:
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Snowflake%20Cortex-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Cortex" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
 </p>
 
 ### 📊 Data Science, Analytics & BI
@@ -251,15 +256,31 @@ managerial_edge:
 I maintain a **certification-heavy learning profile** across the areas that matter most for modern AI/data leadership.
 
 <p align="center">
-  <img width="100%" src="./assets/claude-certified-architect-foundations.png" alt="Claude Certified Architect — Foundations" />
+  <img src="https://img.shields.io/badge/Claude%20Certified%20Architect-Foundations-191919?style=for-the-badge" alt="Claude Certified Architect — Foundations" />
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Professional-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect — Professional" />
+  <img src="https://img.shields.io/badge/AWS%20Generative%20AI%20Developer-Professional-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Generative AI Developer — Professional" />
+  <img src="https://img.shields.io/badge/PMP-Project%20Management%20Professional-562D7C?style=for-the-badge" alt="PMP — Project Management Professional" />
+  <img src="https://img.shields.io/badge/SnowPro-Core%20Certification-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="SnowPro Core Certification" />
 </p>
 
 <p align="center">
-  <img width="100%" src="./assets/aws-certified-solutions-architect-professional.png" alt="AWS Certified Solutions Architect — Professional" />
+  <img width="100%" src="./claude-certified-architect-foundations.png" alt="Claude Certified Architect — Foundations" />
 </p>
 
 <p align="center">
-  <img width="100%" src="./assets/aws-generative-ai-developer-professional.png" alt="AWS Generative AI Developer — Professional" />
+  <img width="100%" src="./aws-certified-solutions-architect-professional.png" alt="AWS Certified Solutions Architect — Professional" />
+</p>
+
+<p align="center">
+  <img width="100%" src="./aws-generative-ai-developer-professional.png" alt="AWS Generative AI Developer — Professional" />
+</p>
+
+<p align="center">
+  <img width="100%" src="./pmp-project-management-professional.png" alt="PMP — Project Management Professional" />
+</p>
+
+<p align="center">
+  <img width="100%" src="./snowpro-core-certification.png" alt="SnowPro Core Certification" />
 </p>
 
 <table>
@@ -277,9 +298,9 @@ I maintain a **certification-heavy learning profile** across the areas that matt
 <td width="25%">
 
 ### ☁️ Cloud
-- AWS architecture
-- Microsoft Azure
-- Google Cloud
+- AWS Solutions Architect — Professional
+- AWS Generative AI Developer — Professional
+- Microsoft Azure and Google Cloud
 - Cloud modernization
 - Cloud data services
 
@@ -287,18 +308,18 @@ I maintain a **certification-heavy learning profile** across the areas that matt
 <td width="25%">
 
 ### 📊 Data & Analytics
+- SnowPro Core Certification
 - Data engineering
 - BI and visualization
 - SQL/Python analytics
-- ML pipelines
 - Data governance
 
 </td>
 <td width="25%">
 
 ### 🧑‍💼 Leadership
-- Agile delivery
-- Program execution
+- PMP — Project Management Professional
+- Agile delivery and program execution
 - Consulting delivery
 - Stakeholder management
 - Enterprise transformation
@@ -421,11 +442,14 @@ End-to-end housing price prediction project using ML and an interactive app.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/schandra235" target="_blank">
+  <a href="https://www.linkedin.com/in/shubhamchandraai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:chandra.shubham.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:shubhachandrawork@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-shubhachandrawork%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="tel:+919942076140">
+    <img src="https://img.shields.io/badge/Phone-%2B91%209942076140-16A34A?style=for-the-badge" alt="Phone" />
   </a>
   <a href="https://shubham235chandra.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
