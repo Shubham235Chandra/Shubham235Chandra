@@ -4,6 +4,7 @@ Repo name should be exactly: Shubham235Chandra/Shubham235Chandra
 Positioning: Senior Manager | AI & Data | GenAI | Cloud | Enterprise Transformation
 -->
 
+
 <div align="center">
   <img width="100%" src="./assets/shubham-chandra-ai-data-cloud-banner.png" alt="Shubham Chandra - Senior Manager AI Data Cloud" />
 </div>
