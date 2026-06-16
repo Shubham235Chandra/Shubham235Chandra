@@ -256,10 +256,10 @@ managerial_edge:
 I maintain a **certification-heavy learning profile** across the areas that matter most for modern AI/data leadership.
 
 <p align="center">
+  <img src="https://img.shields.io/badge/PMP-Project%20Management%20Professional-562D7C?style=for-the-badge" alt="PMP — Project Management Professional" />
   <img src="https://img.shields.io/badge/Claude%20Certified%20Architect-Foundations-191919?style=for-the-badge" alt="Claude Certified Architect — Foundations" />
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Professional-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect — Professional" />
   <img src="https://img.shields.io/badge/AWS%20Generative%20AI%20Developer-Professional-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Generative AI Developer — Professional" />
-  <img src="https://img.shields.io/badge/PMP-Project%20Management%20Professional-562D7C?style=for-the-badge" alt="PMP — Project Management Professional" />
   <img src="https://img.shields.io/badge/SnowPro-Core%20Certification-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="SnowPro Core Certification" />
 </p>
 
